@@ -1,13 +1,13 @@
 ﻿{
-	"version": 1549642425,
+	"version": 1549644569,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
-		"images/sprite-sheet0.png",
-		"images/sprite2-sheet0.png",
-		"images/sprite3-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/lock_bg-sheet0.png",
+		"images/lock_solid_futer-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
