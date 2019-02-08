@@ -20395,6 +20395,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Touch.prototype.exps.Y,
 	cr.plugins_.Text.prototype.acts.SetPosToObject,
 	cr.plugins_.Text.prototype.acts.SetText,
+	cr.system_object.prototype.exps["int"],
 	cr.plugins_.Browser.prototype.exps.BatteryLevel,
 	cr.system_object.prototype.cnds.Compare,
 	cr.plugins_.Sprite.prototype.exps.Y
