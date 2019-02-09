@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1549687275,
+	"version": 1549688152,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,6 +8,8 @@
 		"images/bg-sheet0.png",
 		"images/lock_bg-sheet0.png",
 		"images/lock_solid_futer-sheet0.png",
+		"media/lock.ogg",
+		"media/unlock.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
