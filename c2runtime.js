@@ -23494,6 +23494,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Text.prototype.acts.SetPosToObject,
 	cr.system_object.prototype.cnds.Compare,
 	cr.plugins_.Sprite.prototype.exps.Y,
-	cr.plugins_.Audio.prototype.acts.Play,
-	cr.plugins_.Browser.prototype.cnds.OnMenuButton
+	cr.plugins_.Browser.prototype.cnds.OnMenuButton,
+	cr.plugins_.Audio.prototype.acts.Play
 ];};
